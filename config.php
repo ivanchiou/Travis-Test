@@ -1,6 +1,6 @@
 <?php
 
 $db['hostname'] = 'localhost';
-$db['username'] = 'test';
-$db['password'] = 'test';
-$db['database'] = 'test';
+$db['username'] = 'root';
+$db['password'] = '';
+$db['database'] = 'download';
