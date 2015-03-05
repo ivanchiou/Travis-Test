@@ -1,4 +1,4 @@
-[![Build Status](https://magnum.travis-ci.com/d-link/License-Server.svg?token=SsUxx7Cs7pqf6A9jRHWp&branch=master)](https://magnum.travis-ci.com/d-link/License-Server)
+[![Build Status](https://travis-ci.org/ivanchiou/Travis-Test.svg?branch=master)](https://travis-ci.org/ivanchiou/Travis-Test)
 
 Introduction
 ==========
