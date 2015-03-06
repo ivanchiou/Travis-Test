@@ -20,6 +20,6 @@ before_script:
 # use the $DB env variable to determine the phpunit.xml to use
 script: 
   - phpunit --configuration test/$DB.phpunit.xml --coverage-text
-
-after_success:
   - return 1
+
+  
